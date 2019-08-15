@@ -11,7 +11,7 @@ And access API endpoints on http://localhost:8000/app/projects/
 
 ### Endpoints
 GET /       http://localhost:8000/app/projects/ <br/>
-POST /      http:://localhost:8000/app/projects/ <br/>
+POST /      http://localhost:8000/app/projects/ <br/>
 GET :id/    https://localhsot:8000/app/projects/id/ <br/>
 PUT :id/    https://localhsot:8000/app/projects/id/ <br/>
 DELETE :id/ https://localhsot:8000/app/projects/1/ <br/>
