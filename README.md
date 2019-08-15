@@ -18,4 +18,5 @@ DELETE :id/ https://localhsot:8000/app/projects/1/ <br/>
 
 ### RUN tests
 to run tests run the following commands on CMD <br/>
+$ docker-compose run web python django-rest-practice/manage.py dumpdata > testdata.json <br/>
 $ docker-compose run web pytest django-rest-practice/tests <br/>
